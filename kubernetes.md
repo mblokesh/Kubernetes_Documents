@@ -10,9 +10,9 @@
     $ vi /etc/hosts
     zahir@master:~$ cat /etc/hosts
     127.0.0.1 localhost
-    172.16.15.11 master
-    172.16.15.12 nodeone
-    172.16.15.13 nodesecond
+    172.16.X.X master
+    172.16.X.X nodeone
+    172.16.X.X nodesecond
 
 ### >>>Kubernetes Installation Steps<<<
 
